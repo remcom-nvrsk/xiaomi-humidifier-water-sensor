@@ -12,3 +12,4 @@ Calibrate your board when fully assembled with empty and full tank then modify a
 
 BEWARE: it is advised to calibrate by pouring the water and simultaneously monitoring the sensor value. Save the maximum one. 
 When the water hits certain level it'll short both metal rods making the measurement returns -2. It is expected behaviour.
+https://www.youtube.com/watch?v=JudoDFqBNoU
