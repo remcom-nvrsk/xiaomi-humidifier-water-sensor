@@ -1,3 +1,4 @@
+#include <arduino.h>
 #include <CapacitiveSensor.h>
 
 #define SENDER_PIN 3
